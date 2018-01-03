@@ -1,0 +1,8 @@
+C:\Users\ANDREY.FENOMEN\Downloads\Billiards.csproj\bin\Debug\Billiards.exe.config
+C:\Users\ANDREY.FENOMEN\Downloads\Billiards.csproj\bin\Debug\Billiards.exe
+C:\Users\ANDREY.FENOMEN\Downloads\Billiards.csproj\bin\Debug\Billiards.pdb
+C:\Users\ANDREY.FENOMEN\Downloads\Billiards.csproj\bin\Debug\TestingRoom.dll
+C:\Users\ANDREY.FENOMEN\Downloads\Billiards.csproj\obj\Debug\Billiards.csprojResolveAssemblyReference.cache
+C:\Users\ANDREY.FENOMEN\Downloads\Billiards.csproj\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY.FENOMEN\Downloads\Billiards.csproj\obj\Debug\Billiards.exe
+C:\Users\ANDREY.FENOMEN\Downloads\Billiards.csproj\obj\Debug\Billiards.pdb
