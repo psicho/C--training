@@ -1,0 +1,7 @@
+C:\Users\ANDREY.FENOMEN\source\repos\ClientInput\ClientInput\bin\Debug\ClientInput.exe.config
+C:\Users\ANDREY.FENOMEN\source\repos\ClientInput\ClientInput\bin\Debug\ClientInput.exe
+C:\Users\ANDREY.FENOMEN\source\repos\ClientInput\ClientInput\bin\Debug\ClientInput.pdb
+C:\Users\ANDREY.FENOMEN\source\repos\ClientInput\ClientInput\obj\Debug\ClientInput.csprojResolveAssemblyReference.cache
+C:\Users\ANDREY.FENOMEN\source\repos\ClientInput\ClientInput\obj\Debug\ClientInput.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY.FENOMEN\source\repos\ClientInput\ClientInput\obj\Debug\ClientInput.exe
+C:\Users\ANDREY.FENOMEN\source\repos\ClientInput\ClientInput\obj\Debug\ClientInput.pdb
